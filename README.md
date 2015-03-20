@@ -1,2 +1,4 @@
 # python-gist
-collect python gist
+收集常见常见场景的代码片段
+
+重点是描述出典型场景，以意图来把握代码
